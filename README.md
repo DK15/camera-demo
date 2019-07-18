@@ -1,6 +1,9 @@
 # camera_demo
 
-A new Flutter application.
+This app demonstrates camera feature to take a picture and also use existing picture from phone gallery.
+This app uses image_picker and permission_handler plugins to achieve desired functionality.
+
+I wrote about camera feature here : https://medium.com/flutter-community/implementing-camera-feature-in-flutter-f7f6a7a5e6dd
 
 ## Getting Started
 
